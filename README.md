@@ -4,17 +4,19 @@
 
 - [https://EliD-Dev.github.io/Portfolio/](https://EliD-Dev.github.io/Portfolio/) (EliD-Dev/Portfolio)
 
-## Contributions par commits uniquement (10)
+## Contributions par commits uniquement (12)
 
 - [EliD-Dev/API-Vapor-Citation](https://github.com/EliD-Dev/API-Vapor-Citation)
 - [EliD-Dev/EliD-Dev](https://github.com/EliD-Dev/EliD-Dev)
 - [EliD-Dev/GitHub-Contributions-README-Generator](https://github.com/EliD-Dev/GitHub-Contributions-README-Generator)
 - [EliD-Dev/Marouxo_Python](https://github.com/EliD-Dev/Marouxo_Python)
+- [EliD-Dev/ParcAttraction-Angular](https://github.com/EliD-Dev/ParcAttraction-Angular)
+- [EliD-Dev/PetFinder](https://github.com/EliD-Dev/PetFinder)
 - [EliD-Dev/Portfolio](https://github.com/EliD-Dev/Portfolio)
 - [EliD-Dev/Portfolio-Docker](https://github.com/EliD-Dev/Portfolio-Docker)
 - [EliD-Dev/WikiCoaster](https://github.com/EliD-Dev/WikiCoaster)
-- [Med-css/Projet](https://github.com/Med-css/Projet)
-- [Med-css/cinema](https://github.com/Med-css/cinema)
+- [byMehd/Projet](https://github.com/byMehd/Projet)
+- [byMehd/cinema](https://github.com/byMehd/cinema)
 - [maybenotyou/molecule-out](https://github.com/maybenotyou/molecule-out)
 
 ## Contributions via pull requests (2)
