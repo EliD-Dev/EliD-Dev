@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bash,css,docker,html,js,laravel,php,py,sass,swift,symfony,ts&theme=light" />
+    <img src="https://skillicons.dev/icons?i=angular,bash,css,docker,fastapi,html,java,js,laravel,php,powershell,py,react,redis,sass,swift,symfony,ts,vite&theme=light" />
   </a>
 </p>
 
@@ -20,9 +20,10 @@
 
 - [https://EliD-Dev.github.io/Portfolio/](https://EliD-Dev.github.io/Portfolio/) (EliD-Dev/Portfolio)
 
-## <img height="28" width="28" align="center" style="margin-bottom: 5px;" src="https://api.iconify.design/lucide:git-commit.svg?color=%23586069&width=28&height=28" /> Contributions par commits uniquement (12)
+## <img height="28" width="28" align="center" style="margin-bottom: 5px;" src="https://api.iconify.design/lucide:git-commit.svg?color=%23586069&width=28&height=28" /> Contributions par commits uniquement (14)
 
 - [EliD-Dev/API-Vapor-Citation](https://github.com/EliD-Dev/API-Vapor-Citation)
+- [EliD-Dev/Code-Memory](https://github.com/EliD-Dev/Code-Memory)
 - [EliD-Dev/EliD-Dev](https://github.com/EliD-Dev/EliD-Dev)
 - [EliD-Dev/GitHub-Contributions-README-Generator](https://github.com/EliD-Dev/GitHub-Contributions-README-Generator)
 - [EliD-Dev/Marouxo_Python](https://github.com/EliD-Dev/Marouxo_Python)
@@ -30,6 +31,7 @@
 - [EliD-Dev/PetFinder](https://github.com/EliD-Dev/PetFinder)
 - [EliD-Dev/Portfolio](https://github.com/EliD-Dev/Portfolio)
 - [EliD-Dev/Portfolio-Docker](https://github.com/EliD-Dev/Portfolio-Docker)
+- [EliD-Dev/Scraper-API](https://github.com/EliD-Dev/Scraper-API)
 - [EliD-Dev/WikiCoaster](https://github.com/EliD-Dev/WikiCoaster)
 - [byMehd/Projet](https://github.com/byMehd/Projet)
 - [byMehd/cinema](https://github.com/byMehd/cinema)
